@@ -69,4 +69,4 @@ print("----------------------------------------------------------------------")
 ![image](https://github.com/SusithraB/Open-Jacson-Networks/assets/146347839/0670f3c2-9f90-4fd1-b335-de5104593c18)
 
 ## Result
-![Uploading image.png…]()
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
